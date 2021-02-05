@@ -287,7 +287,7 @@ header nav ul li a.active,
         margin-top: 21px;
     }
     .centered{
-        font-size: 80%;
+        font-size: 90%;
     }
     .headingimg {padding-top: 80px;}
     .centered2{
@@ -301,9 +301,9 @@ header nav ul li a.active,
         float: center;
     }
     .NavOpenButton{
-        font-size: 90%;
+        font-size: 150%;
         margin-left:-220%;
-        margin-top: 25px;
+        margin-top: 20px;
     }
     .centered2{
         font-size: 85%;
@@ -320,6 +320,9 @@ header nav ul li a.active,
         font-size: 80%;
         margin-left:-220%;
         margin-top: 28px;
+    }
+    .centered{
+        font-size: 80%;
     }
 }
 @media screen and (max-width: 337px){
